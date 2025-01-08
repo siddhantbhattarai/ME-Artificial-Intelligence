@@ -54,116 +54,126 @@ Each directory contains:
 - [**Simulated Annealing**](https://siddhantbhattarai.hashnode.dev/comprehensive-guide-to-simulated-annealing)
 - [**Particle Swarm Optimization (PSO)**](https://siddhantbhattarai.hashnode.dev/comprehensive-guide-to-particle-swarm-optimization-pso)
 - [**Ant Colony Optimization (ACO)**](https://siddhantbhattarai.hashnode.dev/comprehensive-guide-to-ant-colony-optimization-aco)
+- [**Random Forest**](https://siddhantbhattarai.hashnode.dev/comprehensive-guide-to-random-forest)
+- [**Self-Organizing Map (SOM)**](https://siddhantbhattarai.hashnode.dev/comprehensive-guide-to-self-organizing-map-som)
+- [**Support Vector Machine (SVM)**](https://siddhantbhattarai.hashnode.dev/comprehensive-guide-to-support-vector-machine-svm)
+- [**Fuzzy Logic**](https://siddhantbhattarai.hashnode.dev/comprehensive-guide-to-fuzzy-logic)
+- [**Hopfield Neural Network (HNN)**](https://siddhantbhattarai.hashnode.dev/comprehensive-guide-to-hopfield-neural-network-hnn)
+- [**Probabilistic Reasoning and Bayesian Networks**](https://siddhantbhattarai.hashnode.dev/comprehensive-guide-to-probabilistic-reasoning-and-bayesian-networks)
+- [**Boltzmann Machine**](https://siddhantbhattarai.hashnode.dev/comprehensive-guide-to-boltzmann-machine-bm)
+- [**Bee-Hive Algorithm**](https://siddhantbhattarai.hashnode.dev/comprehensive-guide-to-bee-hive-algorithm)
+- [**Reinforcement Learning (RL)**](https://siddhantbhattarai.hashnode.dev/comprehensive-guide-to-reinforcement-learning-rl)
+- [**Deep Learning (DL)**](https://siddhantbhattarai.hashnode.dev/comprehensive-guide-to-deep-learning-dl)
 
 ---
 
 ## **🚀 Algorithms and Optimization Methods**
 
 ### 1. **Linear Regression**
-- **Type:** Supervised Learning (Regression)
-- **Key Idea:** Fits a linear relationship between input variables and the target variable by minimizing the sum of squared errors.
-- **Applications:** Predicting house prices, sales forecasting, and continuous variable predictions.
+- **Type:** Supervised Learning (Regression)  
+- **Key Idea:** Fits a linear relationship between input variables and the target variable by minimizing the sum of squared errors.  
+- **Applications:** Predicting house prices, sales forecasting, and continuous variable predictions.  
 
 ---
 
 ### 2. **Regularization (Lasso, Ridge, Elastic Net)**
-- **Type:** Supervised Learning (Regression)
-- **Key Idea:** Adds a penalty term to the loss function to prevent overfitting.
-  - **L1 (Lasso)**: Shrinks coefficients to zero, performing feature selection.
-  - **L2 (Ridge)**: Shrinks coefficients without making them zero.
-  - **Elastic Net**: Combines L1 and L2 regularization.
-- **Applications:** Regression problems with high-dimensional data.
+- **Type:** Supervised Learning (Regression)  
+- **Key Idea:** Adds a penalty term to the loss function to prevent overfitting.  
+  - **L1 (Lasso):** Shrinks coefficients to zero, performing feature selection.
+  - **L2 (Ridge):** Shrinks coefficients without making them zero.
+  - **Elastic Net:** Combines L1 and L2 regularization.  
+- **Applications:** Regression problems with high-dimensional data.  
 
 ---
 
 ### 3. **Simulated Annealing (SA)**
-- **Type:** Optimization Algorithm (Metaheuristic)
-- **Key Idea:** Inspired by the physical process of annealing, the algorithm accepts worse solutions with a decreasing probability to escape local minima.
-- **Applications:** Scheduling, routing, and function optimization.
+- **Type:** Optimization Algorithm (Metaheuristic)  
+- **Key Idea:** Inspired by the physical process of annealing, the algorithm accepts worse solutions with a decreasing probability to escape local minima.  
+- **Applications:** Scheduling, routing, and function optimization.  
 
 ---
 
 ### 4. **Particle Swarm Optimization (PSO)**
-- **Type:** Optimization Algorithm (Swarm Intelligence)
-- **Key Idea:** Simulates the collective behavior of birds flocking or fish schooling to iteratively improve candidate solutions.
-- **Applications:** Neural network training, feature selection, and combinatorial optimization.
+- **Type:** Optimization Algorithm (Swarm Intelligence)  
+- **Key Idea:** Simulates the collective behavior of birds flocking or fish schooling to iteratively improve candidate solutions.  
+- **Applications:** Neural network training, feature selection, and combinatorial optimization.  
 
 ---
 
 ### 5. **Ant Colony Optimization (ACO)**
-- **Type:** Optimization Algorithm (Swarm Intelligence)
-- **Key Idea:** Mimics the foraging behavior of ants, where virtual ants probabilistically choose paths based on pheromone levels and heuristic desirability.
-- **Applications:** Traveling Salesman Problem (TSP), job scheduling, and network routing.
+- **Type:** Optimization Algorithm (Swarm Intelligence)  
+- **Key Idea:** Mimics the foraging behavior of ants, where virtual ants probabilistically choose paths based on pheromone levels and heuristic desirability.  
+- **Applications:** Traveling Salesman Problem (TSP), job scheduling, and network routing.  
 
 ---
 
 ### 6. **Random Forest**
-- **Type:** Supervised Learning (Classification and Regression)
-- **Key Idea:** An ensemble of decision trees that improves accuracy and reduces overfitting using bootstrapped datasets.
-- **Applications:** Fraud detection, loan prediction, and feature importance analysis.
+- **Type:** Supervised Learning (Classification and Regression)  
+- **Key Idea:** An ensemble of decision trees that improves accuracy and reduces overfitting using bootstrapped datasets.  
+- **Applications:** Fraud detection, loan prediction, and feature importance analysis.  
 
 ---
 
 ### 7. **Self-Organizing Map (SOM)**
-- **Type:** Unsupervised Learning (Dimensionality Reduction and Clustering)
-- **Key Idea:** Represents high-dimensional data in low-dimensional grids using competitive learning.
-- **Applications:** Customer segmentation, data visualization, and pattern discovery.
+- **Type:** Unsupervised Learning (Dimensionality Reduction and Clustering)  
+- **Key Idea:** Represents high-dimensional data in low-dimensional grids using competitive learning.  
+- **Applications:** Customer segmentation, data visualization, and pattern discovery.  
 
 ---
 
 ### 8. **Support Vector Machine (SVM)**
-- **Type:** Supervised Learning (Classification and Regression)
-- **Key Idea:** Finds the optimal hyperplane that maximizes the margin between classes.
-- **Applications:** Image classification, text categorization, and bioinformatics.
+- **Type:** Supervised Learning (Classification and Regression)  
+- **Key Idea:** Finds the optimal hyperplane that maximizes the margin between classes.  
+- **Applications:** Image classification, text categorization, and bioinformatics.  
 
 ---
 
 ### 9. **Fuzzy Logic**
-- **Type:** Logic-based Reasoning
-- **Key Idea:** Handles uncertainty by using degrees of truth rather than binary values (True/False).
-- **Applications:** Control systems (washing machines, air conditioners), medical diagnostics, and decision-making systems.
+- **Type:** Logic-based Reasoning  
+- **Key Idea:** Handles uncertainty by using degrees of truth rather than binary values (True/False).  
+- **Applications:** Control systems (washing machines, air conditioners), medical diagnostics, and decision-making systems.  
 
 ---
 
 ### 10. **Hopfield Neural Network**
-- **Type:** Recurrent Neural Network
-- **Key Idea:** A network of fully connected neurons that stores and retrieves patterns through energy minimization.
-- **Applications:** Pattern recognition, associative memory, and image restoration.
+- **Type:** Recurrent Neural Network  
+- **Key Idea:** A network of fully connected neurons that stores and retrieves patterns through energy minimization.  
+- **Applications:** Pattern recognition, associative memory, and image restoration.  
 
 ---
 
 ### 11. **Probabilistic Reasoning and Bayesian Network**
-- **Type:** Probabilistic Graphical Model
-- **Key Idea:** Models the probabilistic dependencies between variables using a directed acyclic graph (DAG).
-- **Applications:** Medical diagnostics, weather forecasting, and spam filtering.
+- **Type:** Probabilistic Graphical Model  
+- **Key Idea:** Models the probabilistic dependencies between variables using a directed acyclic graph (DAG).  
+- **Applications:** Medical diagnostics, weather forecasting, and spam filtering.  
 
 ---
 
 ### 12. **Boltzmann Machine**
-- **Type:** Stochastic Neural Network
-- **Key Idea:** Uses binary nodes and probabilistic sampling to learn representations by minimizing energy.
-- **Applications:** Recommendation systems, unsupervised learning, and feature representation.
+- **Type:** Stochastic Neural Network  
+- **Key Idea:** Uses binary nodes and probabilistic sampling to learn representations by minimizing energy.  
+- **Applications:** Recommendation systems, unsupervised learning, and feature representation.  
 
 ---
 
 ### 13. **Bee-Hive Algorithm**
-- **Type:** Optimization Algorithm (Swarm Intelligence)
-- **Key Idea:** Mimics the foraging behavior of honey bees to search for optimal solutions.
-- **Applications:** Task scheduling, resource allocation, and combinatorial optimization.
+- **Type:** Optimization Algorithm (Swarm Intelligence)  
+- **Key Idea:** Mimics the foraging behavior of honey bees to search for optimal solutions.  
+- **Applications:** Task scheduling, resource allocation, and combinatorial optimization.  
 
 ---
 
 ### 14. **Reinforcement Learning (RL)**
-- **Type:** Learning through interaction
-- **Key Idea:** An agent learns optimal actions by interacting with the environment and receiving rewards or penalties.
-- **Applications:** Game AI, robotics, and self-driving cars.
+- **Type:** Learning through interaction  
+- **Key Idea:** An agent learns optimal actions by interacting with the environment and receiving rewards or penalties.  
+- **Applications:** Game AI, robotics, and self-driving cars.  
 
 ---
 
 ### 15. **Deep Learning**
-- **Type:** Neural Network-based Learning (Supervised, Unsupervised, Reinforcement)
-- **Key Idea:** Uses deep neural networks with multiple layers to learn complex representations.
-- **Applications:** Image recognition, natural language processing, and speech recognition.
+- **Type:** Neural Network-based Learning (Supervised, Unsupervised, Reinforcement)  
+- **Key Idea:** Uses deep neural networks with multiple layers to learn complex representations.  
+- **Applications:** Image recognition, natural language processing, and speech recognition.  
 
 ---
 
