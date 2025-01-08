@@ -82,5 +82,3 @@ If you found this project helpful or have any suggestions, feel free to leave fe
 This project is licensed under the MIT License. You are free to use, modify, and share it with proper attribution.
 
 ---
-
-Let me know if you'd like any additional sections or modifications!
