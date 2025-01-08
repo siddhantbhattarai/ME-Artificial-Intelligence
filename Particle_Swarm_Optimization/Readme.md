@@ -67,15 +67,7 @@ The notebook evaluates the following:
 
 ## **📝 Example Overview**
 
-- **Objective Function:** \( f(x) = (x - 5)^2 \)
-- **Initial Search Space:** \( x \in [-10, 10] \)
-- **Swarm Size:** 30 particles.
-- **Maximum Iterations:** 100.
-- **Velocity Update Formula:**
-  \[
-  v_i(t+1) = w \cdot v_i(t) + c_1 \cdot r_1 \cdot (p_i - x_i(t)) + c_2 \cdot r_2 \cdot (g - x_i(t))
-  \]
-  where \( w \) is the inertia weight, \( c_1, c_2 \) are acceleration coefficients, and \( r_1, r_2 \) are random values.
+![image](https://github.com/user-attachments/assets/f2663fe2-bbde-4b02-a578-8e86af88c62c)
 
 ---
 
